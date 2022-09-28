@@ -1,0 +1,15 @@
+Hyperv host-
+
+We had a VM name BLR-EC-VM001
+Windows server 2019 datacenter edition.
+
+First we had created a project in a azure migrate.
+Setup the Azure Migrate Appliance.
+
+hr call- 
+AWS Cloud services like 
+EC2, - Amazons Elastic Compute Cloud
+ECS, - Amazons Elastic Container Services
+S3, - Amazons Simple Storage service
+ELB, - Elastic Load Balancing
+VPC, - Virtual Private cloud.
